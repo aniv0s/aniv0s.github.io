@@ -1,2 +1,3 @@
 name: Brains, Drugs and Rock'n'Roll
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
